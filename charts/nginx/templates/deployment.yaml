@@ -2,10 +2,12 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: nginx
+  labels:
+    app: nginx
 spec:
   selector:
     matchLabels:
-      app: frontend
+      app: nginx
   template:
     metadata:
       labels:
