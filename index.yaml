@@ -12,4 +12,16 @@ entries:
     urls:
     - https://github.com/rbjoergensen/github-helm-repository/releases/download/github-helm-repository-0.0.0/github-helm-repository-0.0.0.tgz
     version: 0.0.0
-generated: "2023-10-24T06:34:52.566334051Z"
+  nginx:
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2023-10-24T06:45:59.020280882Z"
+    description: Proof of concept of a Helm chart hosted in GitHub
+    digest: 5a95a9fc8d0c56e2248622afd6940619d72d29efe909a72c44e017d6545244e8
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/rbjoergensen/github-helm-repository/releases/download/nginx-0.0.0/nginx-0.0.0.tgz
+    version: 0.0.0
+generated: "2023-10-24T06:45:59.020389282Z"
