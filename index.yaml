@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  github-helm-repository:
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2023-10-24T06:34:52.56632805Z"
+    description: Proof of concept of a Helm chart hosted in GitHub
+    digest: 5c6e1d7d407158ce10bdc0f40c7368b15f08e4bc541d8da2b2098cb650963043
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: github-helm-repository
+    type: application
+    urls:
+    - https://github.com/rbjoergensen/github-helm-repository/releases/download/github-helm-repository-0.0.0/github-helm-repository-0.0.0.tgz
+    version: 0.0.0
+generated: "2023-10-24T06:34:52.566334051Z"
